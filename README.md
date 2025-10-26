@@ -32,6 +32,8 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo"  />
   <img width="10" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?logo=shadcnui&logoColor=white&style=for-the-badge" height="40" alt="shadcn ui logo" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
