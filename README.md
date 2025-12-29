@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m Daniyal Ahmad, a passionate MERN Stack Web Developer with expertise in building scalable custom web apps, real-time systems, and user-centric solutions. Skilled in React.js, Next.js, Node.js, Express.js, MySQL, and MongoDB, I’ve delivered projects like crypto trading dashboards, AI-powered platforms, and property analysis tools. A quick learner and adaptable professional, I thrive on turning complex ideas into clean, efficient, and impactful solutions.</p>
+<p align="left">👋 Hi, I’m Daniyal Ahmad, a passionate MERN Stack Web Developer with expertise in building scalable custom web apps, real-time systems, and user-centric solutions. Skilled in React.js, Next.js, Node.js, Express.js, Nest.js, MySQL,Postgresql and MongoDB, I’ve delivered projects like crypto trading dashboards, AI-powered platforms, and property analysis tools. A quick learner and adaptable professional, I thrive on turning complex ideas into clean, efficient, and impactful solutions.</p>
 
 ###
 
